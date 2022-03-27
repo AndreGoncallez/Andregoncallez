@@ -1,6 +1,8 @@
 ### Hi, I`m André ✨✨  👋👋
-![image](https://user-images.githubusercontent.com/96200295/160288327-6ea172fb-2211-4654-8b20-918363f076e2.png)
+![image](https://user-images.githubusercontent.com/96200295/160288485-203e1674-2acc-4be7-b268-c600813dbace.png)
 
+<!--[image](https://user-images.githubusercontent.com/96200295/160288327-6ea172fb-2211-4654-8b20-918363f076e2.png)
+-->
 ### Who am I ?
 
 * Data Analyst
