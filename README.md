@@ -1,5 +1,5 @@
 ### Hi, I`m André ✨✨  👋👋
-![image](https://user-images.githubusercontent.com/96200295/160288259-249dd32e-cc3e-4719-819d-8630907981bd.png)
+![image](https://user-images.githubusercontent.com/96200295/160288327-6ea172fb-2211-4654-8b20-918363f076e2.png)
 
 ### Who am I ?
 
