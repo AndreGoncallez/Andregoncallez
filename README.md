@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi, I`m André ✨✨  👋👋
+![image](https://user-images.githubusercontent.com/96200295/160287993-27cb82e4-e3ae-4399-8f37-ccbdf566bfcd.png)
+### Who am I ?
 
-<!--
-**AndreGoncallez/Andregoncallez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Data Analyst
+* Business consultant 
+* Financial consultant 
+
+<!--**AndreGoncallez/Andregoncallez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
