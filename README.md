@@ -5,7 +5,7 @@
 -->
 ### Who am I ?
 
-* Data Analyst
+* Data Analyst , Data Science, Machine Learning 
 * Business consultant 
 * Financial consultant 
 
