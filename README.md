@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm André Gonçallez,  Data Analyst | Business Intelligence | Cybersecurity | IT Project Manager |  Network Infrastructure, from Brazil.</h2>
+<h2 align="left">Hi 👋! I'm André Gonçallez,  IT Infrastructure & Support | Cybersecurity | Agile Project Management | Business Intelligence | CCNA (in progress), from Brazil.</h2>
 
 ###
 
